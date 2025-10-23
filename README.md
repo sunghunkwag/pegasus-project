@@ -1,5 +1,6 @@
-![Pegasus Galaxy Banner](https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_1300_HST.jp
-g)# THE PEGASUS PROJECT
+![Pegasus Galaxy Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg/1200px-Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg)
+
+# THE PEGASUS PROJECT
 *Soaring Beyond the Limits of Human Knowledge*
 
 ---
