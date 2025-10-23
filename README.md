@@ -25,10 +25,9 @@ This repository serves as the **central hub** for all research, experiments, mod
 
 The foundation for AGI begins with mastering the fundamentals. My ongoing GitHub repositories—ranging from **Natural Language Processing** to **Deep Learning**, **Computer Vision**, and **Multimodal AI**—are not isolated experiments. They are **building blocks** for the Pegasus Project.
 
-- **Deep Learning**: Core architectures (Transformers, CNNs, RNNs) that power modern AI.
+- **Advanced AI Systems**: Research into next-generation architectures that transcend current limitations and enable AGI capabilities.
 - **NLP & Language Models**: Understanding and generating human language—a critical AGI capability.
-- **Computer Vision**: Perceiving and interpreting the visual world.
-- **Multimodal AI**: Integrating vision, language, and reasoning—closer to human cognition.
+- **Computer Vision**: Perceiving and interpreting the visual world.- **Multimodal AI**: Integrating vision, language, and reasoning—closer to human cognition.
 - **Reinforcement Learning & Agents**: Learning through interaction and decision-making.
 
 ### Why AGI? Why Now?
@@ -37,12 +36,9 @@ The foundation for AGI begins with mastering the fundamentals. My ongoing GitHub
 
 2. **Scalability**: Modern compute infrastructure (GPUs, TPUs, distributed training) enables training models with trillions of parameters.
 
-3. **Unified Architectures**: Transformers and their variants have proven effective across text, vision, audio, and more. A single architecture can handle multiple modalities.
-
-4. **Transfer Learning**: Pre-trained models generalize across tasks with minimal fine-tuning—a key AGI property.
+3. **Adaptive Architectures**: Developing flexible systems that can dynamically reorganize to handle diverse tasks and modalities—essential for AGI.
 
 5. **Open Research Culture**: Democratized access to models, datasets, and compute (via Hugging Face, PyTorch, TensorFlow) accelerates progress.
-
 AGI is not a distant dream—it's the **next logical step** in AI evolution. The question is no longer "Can we?" but "How soon, and how well?"
 
 ---
