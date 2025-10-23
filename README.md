@@ -148,35 +148,7 @@ AGI is too large a problem for any one person or organization. I welcome:
 - **Research discussions** (open issues for debate)
 - **Partnerships** with researchers, institutions, and companies
 
----
 
-## 📖 Resources & References
-
-### Papers
-- [Attention Is All You Need (Transformers)](https://arxiv.org/abs/1706.03762)
-- [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
-- [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
-- [Flamingo: A Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
-- [Model-Agnostic Meta-Learning (MAML)](https://arxiv.org/abs/1703.03400)
-
-### Books
-- *Deep Learning* by Ian Goodfellow, Yoshua Bengio, Aaron Courville
-- *Artificial Intelligence: A Modern Approach* by Stuart Russell, Peter Norvig
-- *The Hundred-Page Machine Learning Book* by Andriy Burkov
-
-### Tools & Frameworks
-- [PyTorch](https://pytorch.org/)
-- [Hugging Face Transformers](https://huggingface.co/transformers/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [JAX](https://github.com/google/jax)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**—free to use, modify, and distribute.
-
----
 
 ## 🚀 Let's Build AGI Together
 
