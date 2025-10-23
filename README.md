@@ -1,5 +1,4 @@
-![Galaxy Banner](https://images.unsplash.com/photo-1462331940025-496dfbfc7d49?auto=format&fit=crop&w=1200&q=80)
-
+![Galaxy Banner](https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg)
 # THE PEGASUS PROJECT
 
 *Soaring Beyond the Limits of Human Knowledge*
