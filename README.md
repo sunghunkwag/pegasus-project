@@ -1,5 +1,4 @@
-1.png
-
+![Pegasus Galaxy Banner](https://upload.wikimedia.org/wikipedia/commons/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg)
 # THE PEGASUS PROJECT
 *Soaring Beyond the Limits of Human Knowledge*
 
