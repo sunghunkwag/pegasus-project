@@ -1,4 +1,4 @@
-![Pegasus Banner](1.png
+1.png
 
 # THE PEGASUS PROJECT
 *Soaring Beyond the Limits of Human Knowledge*
