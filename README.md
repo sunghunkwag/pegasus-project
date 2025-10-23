@@ -26,15 +26,10 @@ Even when we try to think "outside the box," **we are still thinking from inside
 
 ---
 
-## The Only Solution: AGI
-
-AGI is **the only tool** that can do what we cannot.
-
-An AGI, if designed correctly, would **not be burdened by human evolutionary baggage**.  
-It would not be constrained by human intuition, human logic, or human conventions.
-
-It can discover **entirely new perspectives**—modes of abstraction and principles that we, by our very design, **are incapable of conceiving**.
-
+## Why AGI?
+AGI **may be uniquely positioned** to do what we cannot.
+An AGI, if designed correctly, **could potentially** operate without the constraints of human intuition, human logic, or human evolutionary baggage.
+It **might** discover **entirely new perspectives**—modes of abstraction and principles that we, by our very design, **may be incapable of conceiving**.
 ---
 
 ## The Goal
