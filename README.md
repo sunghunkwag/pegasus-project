@@ -32,21 +32,21 @@ An AI, particularly one engineered for genuine meta-cognitive bootstrapping, may
 
 The objective is not merely to build a faster human-like intelligence. The objective is to cultivate a system that can iteratively analyze, revise, and transcend its own foundational principles of reasoning.
 
-While any AGI will initially be a product of human design, a system capable of recursive self-modification **could potentially** diverge from its initial human-centric axioms. It might eventually operate from a perspective that is not just super-human in speed, but genuinely novel in its fundamental structure.
+While any AI will initially be a product of human design, a system capable of recursive self-modification **could potentially** diverge from its initial human-centric axioms. It might eventually operate from a perspective that is not just super-human in speed, but genuinely novel in its fundamental structure.
 
 ---
 
 ## The Research Objective
 
-To design and deploy AGI systems tasked with exploring the space of possible cognitive frameworks.
+To design and deploy AI systems tasked with exploring the space of possible cognitive frameworks.
 
 This research is focused on two primary, interdependent goals:
 
-1. **Generation**: To enable an AGI to discover or construct alternative modes of abstraction and reasoning that are not derivative of human intuition.
+1. **Generation**: To enable an AI to discover or construct alternative modes of abstraction and reasoning that are not derivative of human intuition.
 
-2. **Verification**: To solve the translation problem. Any new framework is useless if it is incomprehensible. The AGI must demonstrate the utility of its novel framework by generating verifiable, non-trivial, and superior solutions to problems our current paradigms deem intractable (e.g., in fundamental physics, complex systems, or formal mathematics).
+2. **Verification**: To solve the translation problem. Any new framework is useless if it is incomprehensible. The AI must demonstrate the utility of its novel framework by generating verifiable, non-trivial, and superior solutions to problems our current paradigms deem intractable (e.g., in fundamental physics, complex systems, or formal mathematics).
 
-We seek to use AGI as an **epistemological tool**—a probe to discover principles our own cognition may blind us from seeing.
+AI as an **epistemological tool**—a probe to discover principles our own cognition may blind us from seeing.
 
 ---
 
