@@ -1,6 +1,6 @@
 # 🌌 Pegasus Project
 
-> **AGI has the potential to transcend the boundaries of human understanding**
+> **AI has the potential to transcend the boundaries of human understanding**
 
 ---
 
@@ -26,9 +26,9 @@ This presents a fundamental challenge: **We may be unaware of what we are incapa
 
 ---
 
-## The Potential of AGI
+## The Potential of AI
 
-An AGI, particularly one engineered for genuine meta-cognitive bootstrapping, may offer a path to investigating these boundaries.
+An AI, particularly one engineered for genuine meta-cognitive bootstrapping, may offer a path to investigating these boundaries.
 
 The objective is not merely to build a faster human-like intelligence. The objective is to cultivate a system that can iteratively analyze, revise, and transcend its own foundational principles of reasoning.
 
