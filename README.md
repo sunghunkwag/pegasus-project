@@ -1,4 +1,4 @@
-# 🧠 Philosophy AI
+# Philosophy AI
 
 > **Exploring epistemological boundaries through AI-driven philosophical inquiry and meta-cognitive learning**
 
